@@ -1,0 +1,358 @@
+1597266655785	geckodriver	INFO	Listening on 127.0.0.1:57432
+1597266658829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofile6aU8FF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597266661743	Marionette	INFO	Listening on port 57440
+1597266661950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597266663892	Marionette	INFO	Stopped listening on port 57440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597266714362	geckodriver	INFO	Listening on 127.0.0.1:57478
+1597266717429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileabP8cK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597266719770	Marionette	INFO	Listening on port 57486
+1597266720041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: undefined
+1597266751730	Marionette	INFO	Stopped listening on port 57486
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597266863707	geckodriver	INFO	Listening on 127.0.0.1:57577
+1597266866893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofile3S4z94"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597266868876	Marionette	INFO	Listening on port 57585
+1597266868921	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1597266870054	Marionette	INFO	Stopped listening on port 57585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597267319416	geckodriver	INFO	Listening on 127.0.0.1:57643
+1597267322495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileqNTDCn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597267324510	Marionette	INFO	Listening on port 57651
+1597267324526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597267333342	Marionette	INFO	Stopped listening on port 57651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597267516606	geckodriver	INFO	Listening on 127.0.0.1:57712
+1597267519690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileiB7W2y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597267521243	Marionette	INFO	Listening on port 57720
+1597267521703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597268204436	Marionette	INFO	Stopped listening on port 57720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile7GiQdu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597267593249	Marionette	INFO	Listening on port 57787
+1597267593310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597267603597	Marionette	INFO	Stopped listening on port 57787
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597268103850	geckodriver	INFO	Listening on 127.0.0.1:57860
+1597268106915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileouEsUG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597268109311	Marionette	INFO	Listening on port 57868
+1597268109527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597268124937	Marionette	INFO	Stopped listening on port 57868
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597268461361	geckodriver	INFO	Listening on 127.0.0.1:57955
+1597268464406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofilegG7I3F"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597268466274	Marionette	INFO	Listening on port 57963
+1597268466416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597268478327	Marionette	INFO	Stopped listening on port 57963
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597268792837	geckodriver	INFO	Listening on 127.0.0.1:58054
+1597268795897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofile6woxHk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597268797576	Marionette	INFO	Listening on port 58062
+1597268797906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597268923135	Marionette	INFO	Stopped listening on port 58062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597268932805	geckodriver	INFO	Listening on 127.0.0.1:58126
+1597268935847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofilejyKr3v"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597268937560	Marionette	INFO	Listening on port 58134
+1597268937872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://code.jquery.com/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+JavaScript error: https://www.seleniumeasy.com/sites/default/files/js/js_1pwJufKjiQsl5tLfRR9NEVuVtIW5DVu-beBr8FbgvmM.js, line 10: TypeError: $(...).get(...) is undefined
+1597268957250	Marionette	INFO	Stopped listening on port 58134
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597269012853	geckodriver	INFO	Listening on 127.0.0.1:58220
+1597269015903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofile4Npzld"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269017610	Marionette	INFO	Listening on port 58228
+1597269017919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597269108351	Marionette	INFO	Stopped listening on port 58228
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofiledhu1u7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269087147	Marionette	INFO	Listening on port 58296
+1597269087284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597269102588	Marionette	INFO	Stopped listening on port 58296
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597269139032	geckodriver	INFO	Listening on 127.0.0.1:58348
+1597269142108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileptBujI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269143796	Marionette	INFO	Listening on port 58356
+1597269144152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+1597269193084	Marionette	INFO	Stopped listening on port 58356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597269196689	geckodriver	INFO	Listening on 127.0.0.1:58422
+1597269199777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofilegjZ4eS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269201407	Marionette	INFO	Listening on port 58430
+1597269201819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597269587203	Marionette	INFO	Stopped listening on port 58430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e)"))
+1597269413144	Marionette	INFO	Listening on port 58518
+1597269413488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597269586298	Marionette	INFO	Stopped listening on port 58518
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onsole.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269441218	Marionette	INFO	Listening on port 58583
+1597269441280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597269462547	Marionette	INFO	Stopped listening on port 58583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597269588959	geckodriver	INFO	Listening on 127.0.0.1:58649
+1597269592033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileLemD3U"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269593729	Marionette	INFO	Listening on port 58657
+1597269594053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597269618494	Marionette	INFO	Stopped listening on port 58657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597269620443	geckodriver	INFO	Listening on 127.0.0.1:58714
+1597269623540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofiled5ql4d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269625124	Marionette	INFO	Listening on port 58722
+1597269625568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1597269770307	Marionette	INFO	Stopped listening on port 58722
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+onsole.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269684732	Marionette	INFO	Listening on port 58788
+1597269685019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597287140828	Marionette	INFO	Stopped listening on port 58788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofile5FxVF6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597269849615	Marionette	INFO	Listening on port 58886
+1597269849867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597287140013	Marionette	INFO	Stopped listening on port 58886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofiled6epLZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597274048797	Marionette	INFO	Listening on port 59050
+1597274049174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1597274055082	Marionette	INFO	Stopped listening on port 59050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597275935000	geckodriver	INFO	Listening on 127.0.0.1:59243
+1597275938084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\diego\\AppData\\Local\\Temp\\rust_mozprofileXJOWaP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597275939745	Marionette	INFO	Listening on port 59252
+1597275940092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597275952844	Marionette	INFO	Stopped listening on port 59252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

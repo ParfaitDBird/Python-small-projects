@@ -1,0 +1,18 @@
+for tweet in tweepy.Cursor(api.user_timeline,id="GdlkTaste").items(numbersofTweets):
+    try:
+       # arreglo.append(tweet.text)
+        print(tweet.text)
+        m = re.search('(?:https?:\/\/)?(?:[^?\/\s]+[?\/])(.*)',tweet.text)
+        arreglo.append('https://t.co/'+m.group(1))
+    except tweepy.TweepError as e:
+        print(e.reason)
+    except StopIteration:
+        break
+print(arreglo)
+api.user_timeline.(id='GdlkTaste')
+
+
+
+           #expanded_url  media_url_https
+            #print("Artist:@" + str(status.entities["user_mentions"][0]["screen_name"]))
+            #print("The entitities are : " + str(status.entities["media"][0]["media_url_https"]))
