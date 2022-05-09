@@ -5,7 +5,7 @@ import asyncio
 import random
 from discord.ext import commands
 import fetchDB
-TOKEN = 'NzY1NzI4ODg2NzcxMTU0OTY0.X4ZCmQ.OuvxF6MhTNHLTyLYZyZ7iSeISWw'
+TOKEN = ''
 client = discord.Client()
 
 client = commands.Bot(command_prefix="$")
